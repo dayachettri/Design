@@ -109,6 +109,12 @@ nav .logo {
   gap: 24px;
 }
 
+.nav-link a:link,
+.nav-link a:visited {
+  color: #087f5b;
+  font-weight: 500;
+}
+
 /* HEADER */
 header {
   display: grid;
